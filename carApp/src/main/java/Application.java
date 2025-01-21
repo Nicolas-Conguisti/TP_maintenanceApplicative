@@ -1,5 +1,5 @@
 public class Application {
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         Voiture maVoiture = new Voiture("Sedan", "Bleu");
         Conducteur moi = new Conducteur("John", 20);
 
